@@ -1,0 +1,31 @@
+# Muhammad Nabil - Portfolio & Knowledge Base
+
+> Official portfolio of Muhammad Nabil, Full Stack Developer & Ventures Lead based in Dhaka, Bangladesh.
+
+## Summary
+Muhammad Nabil is a full stack developer, technology venture strategist, and investigative data journalist. He architects scalable digital platforms, real-time telemetry systems, and enterprise design systems.
+
+## Primary Identity & Canonical Links
+- **Full Name**: Muhammad Nabil
+- **Role**: Full Stack Developer & Ventures Lead
+- **Location**: Dhaka, Bangladesh
+- **Website**: https://muhammadnabil.com
+- **Email**: hello@muhammadnabil.com
+- **Phone / WhatsApp**: +880 1711 969636
+- **GitHub**: https://github.com/nabil2dhaka/muhammadnabil.com
+- **Facebook**: https://www.facebook.com/HelloNabil
+- **Telegram**: https://t.me/nabilsylhet
+- **YouTube**: https://www.youtube.com/@contactnabil
+
+## Core Expertise & Tech Stack
+- **Full Stack Development**: TypeScript, JavaScript, React, Next.js, Node.js, Python, REST APIs, GraphQL
+- **Ventures & Strategy**: Business intelligence systems, digital media platforms, product engineering
+- **Architecture**: Scalable cloud architectures, modular bento UI, interface engineering, design systems
+- **Specializations**: High-performance telemetry overlays, media analytics, algorithmic systems
+
+## Key Pages & Resources
+- [Home](https://muhammadnabil.com/): Master overview, credentials, quick links, and core contact info.
+- [Resume](https://muhammadnabil.com/resume.html): Comprehensive career timeline, Stanford University academic credentials (M.S. Information Systems), neural tech stack, and industry recognition.
+- [Projects](https://muhammadnabil.com/works.html): Detailed portfolio showcasing PlusIT Ventures Hub, News Media Intelligence, Scalable Cloud CMS, Mobile Ecosystem, Enterprise BI Portal, and Media Syndication Network.
+- [Insights & Feed](https://muhammadnabil.com/blog.html): Engineering logs and articles covering investigative journalism tech, UI design logic, and cyber resilience protocols.
+- [Contact](https://muhammadnabil.com/contact.html): Direct connection channels and project brief intake.

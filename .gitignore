@@ -1,0 +1,16 @@
+# Temporary extraction and scratch files
+*.old.html
+*-main.html
+*.test.html
+css1.css
+css2.css
+css3.css
+css4.css
+demo2.html
+preview*.png
+*.js
+
+# Keep node_modules ignored if any
+node_modules/
+.DS_Store
+Thumbs.db
